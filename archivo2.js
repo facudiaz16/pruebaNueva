@@ -6,6 +6,8 @@ console.log("5 Linea de participante B")
 console.log("6 linea del participante B");
 
 
+console.log("Line< 7 agregada por el participante B");
+
 
 
 
